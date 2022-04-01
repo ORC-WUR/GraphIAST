@@ -1,6 +1,6 @@
 # GraphIAST
  
-<font size = 14>Graphical User Interface Software for Ideal Adsorption Solution Theory
+<font size = 40>Graphical User Interface Software for Ideal Adsorption Solution Theory
 
 GraphIAST is a user-friendly graphical user interface to predict mixed gas adsorption isotherms by Ideal Adsorption Solution Theory (IAST). GraphIAST uses pyIAST as programming basis and makes three-dimentional selectivity predictions easily accessible within just a few clicks. 
 
